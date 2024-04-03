@@ -2,7 +2,7 @@
 
 ## This is me!
 
-<img src="IMG_8540.PNG" alt="A picture of me!" width="200"/>
+![A picture of me!](IMG_8540.PNG)
 
 
 I am a * *second-year* * **Computer Engineering** major at UCSD.
