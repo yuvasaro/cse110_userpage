@@ -50,5 +50,6 @@ Classes I'm taking this quarter (I may drop one):
 5. CHEM 11
 
 
+Checklist...
 - [x] Have you read my introduction?
 - [ ] Have you seen my personal project?
