@@ -11,7 +11,7 @@ I am a * *second-year* * **Computer Engineering** major at UCSD.
 One of my favorite quotes is as follows:
 > You don’t become confident by shouting affirmations in the mirror, but by having a stack of undeniable proof that you are who you say you are. 
 > Outwork your self-doubt.
-> - Alex Hormozi
+> -- Alex Hormozi
 
 
 ## Code
