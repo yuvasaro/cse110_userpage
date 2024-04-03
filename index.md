@@ -5,7 +5,7 @@
 ![A picture of me!](IMG_8540.PNG)
 
 
-I am a * *second-year* * **Computer Engineering** major at UCSD.
+I am a *second-year* **Computer Engineering** major at UCSD.
 
 
 One of my favorite quotes is as follows:
