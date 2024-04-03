@@ -2,7 +2,7 @@
 
 ## This is me!
 
-![A picture of me](IMG_8540.PNG)
+<img src="drawing.jpg" alt="drawing" width="100"/>
 
 
 I am a * *second-year* * **Computer Engineering** major at UCSD.
